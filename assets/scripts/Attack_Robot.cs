@@ -1,7 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class cam3p : MonoBehaviour {
+public class Attack_Robot : MonoBehaviour {
+
+    public bool targetted;
 
 	// Use this for initialization
 	void Start () {
